@@ -65,9 +65,6 @@ The dashboard highlights the following metrics:
 * Total Readmitted Patients
 * Average Length of Stay
 * % Long Stay Patients
-* Average Number of Medications
-* Average Emergency Visits
-* % Patients on Diabetes Medication
 * % Patients with Medication Changes
 
 ---
