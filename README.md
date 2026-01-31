@@ -113,3 +113,20 @@ The dashboard highlights the following metrics:
 This project demonstrates how Excel can be used for **end-to-end data analysis**, from cleaning and transformation to insight generation and dashboard reporting. It reflects practical skills required for a **junior data analyst role** in healthcare or operations analytics.
 
 ---
+
+## 🧑‍💻 Author
+
+**Michael Okposo**
+
+*  Data Analyst
+* SQL | Power BI | Excel |Python
+* Passionate about data storytelling and business insights
+
+---
+
+## ⭐ If you like this project
+
+Please **star ⭐ this repository** — it supports my data portfolio!
+
+---
+
